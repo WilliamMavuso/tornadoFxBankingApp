@@ -2,6 +2,6 @@ package AccountTypes
 
 import Account
 
-class EasySavings {
+class EasySavings(AccountNumber: Int, Balance: Float) : Account(AccountNumber,Balance) {
 
 }
