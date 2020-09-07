@@ -1,4 +1,6 @@
 package AccountTypes
 
-class Diamond {
+import Account
+
+class Diamond(AccountNumber: Int, Balance: Float) : Account(AccountNumber,Balance) {
 }

@@ -1,4 +1,6 @@
 package AccountTypes
 
-class TaxFree {
+import Account
+
+class TaxFree(AccountNumber: Int, Balance: Float) : Account(AccountNumber,Balance) {
 }

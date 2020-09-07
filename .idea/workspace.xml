@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f25924d-1e74-400a-b634-6acac94e53fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Account$accountID$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Account$balance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Account$balance$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Account$deposit$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Account$deposit$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Account$withdraw$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Account$withdraw$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/AccountNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/AccountNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/AccountTypes/EasySavings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/AccountTypes/EasySavings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/BankKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/BankKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Transactions$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Transactions$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Transactions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/william_mavuso_180256_banking_system/Transactions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccountNumbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountTypes/Diamond.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccountTypes/Diamond.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountTypes/EasySavings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccountTypes/EasySavings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountTypes/Gold.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccountTypes/Gold.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountTypes/TaxFree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccountTypes/TaxFree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/People/Client.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/People/Client.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/People/Employee.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/People/Employee.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transactions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transactions.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h3JYw0U6mtmKHt3PQ3sm4cKbVg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BankKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="william_mavuso_180256_banking_system" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BankKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.BankKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f25924d-1e74-400a-b634-6acac94e53fd" name="Default Changelist" comment="" />
+      <created>1599183701409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599183701409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599401286054">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1599401286054" />
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom" timestamp="1599449436606">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599449436606" />
+    <state width="1358" height="217" key="GridCell.Tab.0.center" timestamp="1599449436604">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1599449436604" />
+    <state width="1358" height="217" key="GridCell.Tab.0.left" timestamp="1599449436603">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1599449436603" />
+    <state width="1358" height="217" key="GridCell.Tab.0.right" timestamp="1599449436605">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1599449436605" />
+    <state x="319" y="124" width="837" height="674" key="new project wizard" timestamp="1599444670430">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="319" y="124" width="837" height="674" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1599444670430" />
+  </component>
+</project>

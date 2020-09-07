@@ -1,16 +1,5 @@
-import AccountNumbers as AccountNumberList
-
 
 open class Account(private var AccountNumber: Int, private var Balance:Float):Transactions {
-
-    init {
-        var accountNumber: Int = AccountNumber
-        var accountList = AccountNumberList()
-//        println("${accountList} + ${accountNumber}")
-    }
-
-
-
 
     private var accountBalance:Float = Balance
     private var accountNumber: Int = AccountNumber
@@ -27,16 +16,15 @@ open class Account(private var AccountNumber: Int, private var Balance:Float):Tr
         this.balance = { newBalance }
     }
 
-    fun  setAccountNumber(number:Int){
+  private  fun  setAccountNumber(number:Int){
         this.AccountNumber = number
-
     }
 
-    var accountID = fun(): Int {
+    var AccNumber = fun () : Int {
         return AccountNumber
     }
 
-    fun setBalance(balance:Float){
+   fun setBalance(balance:Float){
     if (balance <= 0f){
         this.accountBalance = balance
         }

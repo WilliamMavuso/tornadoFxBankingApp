@@ -1,4 +1,6 @@
 package AccountTypes
 
-class Gold {
+import Account
+
+class Gold(AccountNumber: Int, Balance: Float) : Account(AccountNumber,Balance) {
 }

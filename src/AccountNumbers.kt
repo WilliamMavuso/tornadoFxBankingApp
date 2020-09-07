@@ -1,20 +1,9 @@
-import Account as Account
+object AccountNumbers {
 
-class AccountNumbers(){
-    var number:Int = 0
-    var collect = mutableListOf<Int>()
-
-    fun addtoCollection(number:Int){
-        this.number = number
-        val add = collect.add(number)
-    }
-
-    fun getCollection(){
-        for (collect in collect){
-            println(collect)
+    var accountRecords = mutableListOf<Int>()
+    fun addRecord(record:Int){
+        for (i in accountRecords){
+            accountRecords.add(record)
         }
     }
-
 }
-
-
